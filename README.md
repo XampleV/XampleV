@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @XampleV
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning C#, and node.js
